@@ -25,4 +25,9 @@ Permite a los usuarios generar una contraseña de 8 o más con letras, numeros, 
 <li>Al lado derecho aparece el nivel de fortaleza de la contraseña.</li>
 </ul>
 
+<h2 align="left">Sobre el Proyecto </h2>
+<p align="left">El proyecto generador de contraseñas es la base de una inmersión de Alura latam 
+el boton limpiar y el nivel de fortaleza es realizado por Yully Garzón.
 
+<p align="left">" Disfruta Generando tus contraseñas"
+  
